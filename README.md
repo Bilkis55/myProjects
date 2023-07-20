@@ -1,2 +1,2 @@
 # myProjects
-management projects
+ATMMachine project
